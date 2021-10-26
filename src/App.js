@@ -24,7 +24,7 @@ function App() {
       <form
         method="post"
         id="mturk_form"
-        action="https://www.mturk.com/mturk/externalSubmit"
+        action="https://workersandbox.mturk.com/mturk/externalSubmit"
         ref={formMturk}
       >
         <label for="color">Color: </label>
